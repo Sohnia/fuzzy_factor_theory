@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# author:Zgc
 # datetime:2020/4/7 14:41
 # software: PyCharm
 from decimal import Decimal
